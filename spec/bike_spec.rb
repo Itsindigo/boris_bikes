@@ -6,4 +6,3 @@ describe Bike do
 		expect(subject.report_broken).to eq false 
 	end
 end 
-
