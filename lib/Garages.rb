@@ -7,7 +7,7 @@ class Garages
 	attr_reader :fixed_bikes
 
 	def initialize
-		@bikes = []
+		@fixed_bikes = []
 	end
 
 	def to_fix(broken_bikes)
