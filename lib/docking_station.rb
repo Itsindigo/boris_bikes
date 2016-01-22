@@ -1,4 +1,4 @@
-require './lib/bike'
+require 'bike'
 
 class DockingStation
 
