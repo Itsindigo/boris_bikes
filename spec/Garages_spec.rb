@@ -1,4 +1,4 @@
-require 'Garages.rb'
+require 'garage.rb'
 
 describe Garages do
 	#context "mock of a van with two broken bikes in." do

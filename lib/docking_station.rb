@@ -34,3 +34,5 @@ DEFAULT_CAPACITY=20
 		bikes.count <= 0 ? true : false
 	end
 end
+
+example_docking_station.bikes

@@ -1,4 +1,4 @@
-require './lib/Van.rb'
+require './lib/van'
 
 
 class Garages

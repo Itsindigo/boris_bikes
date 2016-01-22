@@ -1,4 +1,4 @@
-require './lib/DockingStation.rb'
+require './lib/docking_station'
 
 class Van
 
@@ -11,4 +11,4 @@ class Van
 	def take_broken(docking_station)
 		docking_station.bikes.select { |x| x.working? == false}
 	end
-end 
+end
