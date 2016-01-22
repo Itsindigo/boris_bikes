@@ -1,5 +1,4 @@
 require './lib/DockingStation.rb'
-require './lib/bike.rb'
 
 class Van
 

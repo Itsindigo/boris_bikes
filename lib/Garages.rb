@@ -1,6 +1,5 @@
-require './lib/DockingStation.rb'
 require './lib/Van.rb'
-require './lib/bike.rb'
+
 
 class Garages
 
